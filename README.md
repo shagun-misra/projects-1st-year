@@ -26,8 +26,7 @@ You can install the required dependencies using pip:
 pip install pywhatkit Pillow
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# QR Code Generator
-
+# **QR Code Generator**
 This Python project allows users to generate customized QR codes from any text or URL input. The program provides options to customize the QR code's foreground (fill) color, background color, and filename for saving the generated image.
 
 ## Features
